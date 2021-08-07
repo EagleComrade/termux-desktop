@@ -16,7 +16,7 @@ apt install dbus-glib  xfwm4 xfce4-* xcb-* xcompmgr webkit2gtk sdl2 -y
 apt install pulseaudio pulseaudio-* git calc calcurse desktop-file-utils -y
 apt install feh fontconfig-utils fsmon gtk4 gtk2 gtk3 wireshark-gtk -y
 apt install pinentry-gtk leafpad gpg-crypter loqui imagemagick man -y
-apt install termux-api thunar vim xorg-* azpainter roxterm  otter-browser -y
+apt install termux-api thunar vim xorg-* papirus-icon-theme roxterm  otter-browser -y
 apt install startup-notification netsurf obconf dbus sdl2-mixer -y
 
 }
