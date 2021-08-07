@@ -60,7 +60,7 @@ sleep 1s
 
 
 home=/data/data/com.termux/files/home
-data=$home/termux-desktop/data
+data=$home/termux-desktop
 usr=/data/data/com.termux/files/usr
 cat $data/xstartup > $home/.vnc/xstartup
 
