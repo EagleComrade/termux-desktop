@@ -1,6 +1,5 @@
 #!/data/data/com.termux/files/bin/bash
-  ## mrDevilDrago creation
-  ## email Id lijovijin000@gmail.com
+  ## EAGLE_COMRADE creation
 
 updater() {
 echo -e "[*]UPDATING_DATABASE~...."
